@@ -1,20 +1,76 @@
-# Road-Accident-Dashboard-Analysis(Interactive Dashboard creation using MS Excel)
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data processing, data cleaning and data visualization
-[Download the Excel file from Google Drive](https://docs.google.com/spreadsheets/d/1LndDpHtaXU51DVV6XdJLQxnGa8idUa-i/edit?usp=sharing&ouid=118220627709812641957&rtpof=true&sd=true)
-# Road Accident Dashboard Analysis
-![Road Accident Dashboard](https://github.com/InsightsByJoe/Road-Accident-Dashboard-Analysis/blob/main/Screenshot%202024-09-21%20141911.png)
+# Road Accident Analysis
 
 ## Project Overview
 
-### Project Title: Road Accident Dashboard Analysis
+The **Road Accident Analysis** project provides a detailed examination of road accidents and casualties across different vehicle types, road conditions, and environmental factors. This project aims to shed light on accident trends, vehicle involvement, and casualty severity to support data-driven decisions for enhancing road safety measures. By utilizing **Microsoft Excel** for data cleaning, analysis, and visualization, the project offers an interactive dashboard that allows users to explore key insights such as accident distribution by vehicle type, light conditions, surface conditions, and road type.
 
-### Objective:
-The **Road Accident Dashboard Analysis** project aims to provide comprehensive insights into road accidents, focusing on casualty types, vehicle involvement, road conditions, surface type, and time factors. By leveraging data visualization techniques, this project helps identify accident trends, high-risk areas, and factors contributing to road accidents. The ultimate goal is to provide actionable recommendations to reduce road accidents and casualties.
+The visualizations created offer stakeholders (e.g., traffic analysts, policymakers, and public safety officials) the ability to better understand the factors contributing to road accidents and identify high-risk areas or conditions that need immediate attention. This project emphasizes ease of use and dynamic exploration through pivot tables and slicers, enabling customized analysis based on different filters like year, urban/rural areas, and accident date.
+
+![Screenshot 2024-09-21 141911](https://github.com/user-attachments/assets/43c3e43c-669a-44cf-a9b8-63ff0d6f7cce)
+
 
 ---
 
-### Data Source:
-The dataset used in this project was sourced from a publicly available **Road Accident Dataset**, which contains detailed information about road accidents, casualties, vehicle types, road conditions, light conditions, and surface conditions.
+## Data Source
+
+The dataset used for this project was sourced from publicly available data on road casualties in Great Britain. It includes comprehensive details on accidents, casualties, vehicle involvement, and environmental conditions. The dataset is freely accessible through the following link:
+
+- **[Reported Road Casualties in Great Britain](https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain)**
+
+This dataset serves as the foundation for the analysis and visualizations presented in this project.
+
+## Data & Workings
+
+All the data used for this analysis, along with the Excel file containing the dashboard and the working sheets, can be accessed via the following Google Drive link:
+
+- **[Google Drive Link to Data & Workings](https://docs.google.com/spreadsheets/d/1LndDpHtaXU51DVV6XdJLQxnGa8idUa-i/edit?usp=drive_link&ouid=118220627709812641957&rtpof=true&sd=true)**
+
+This file contains:
+1. The raw data used for analysis.
+2. The cleaned and processed data sheets.
+3. The Excel dashboard with all visualizations and slicers for interactive analysis.
+---
+
+## Tools Used
+
+- **Microsoft Excel**: Used for the entire data processing, analysis, and dashboard visualization. Key features used include:
+  - **Pivot Tables** for data grouping and summarization.
+  - **Charts (line, pie, and bar)** for trend analysis and distribution visuals.
+  - **Slicers** for interactive data filtering.
+  
+---
+
+## Summary of the Process
+
+1. **Data Loading**: 
+   - Loaded the dataset into **Excel** for initial inspection and preparation.
+
+2. **Data Cleaning**:
+   - Removed duplicate records to ensure the data is clean and representative.
+   - Handled missing values and formatted data columns to align with analysis requirements.
+
+3. **Data Analysis**:
+   - Grouped data by vehicle types, road conditions, and accident severity using **pivot tables**.
+   - Applied descriptive statistics to calculate totals and percentages for different accident types and conditions.
+
+4. **Visualization**:
+   - Developed an interactive **dashboard** with dynamic charts and slicers to allow users to explore key accident insights by different parameters (e.g., road type, vehicle type, and light conditions).
+   - Used **line graphs** to visualize trends over time and **bar charts** to display the distribution of accidents by key factors.
+
+---
+
+## Key Features
+
+- **Interactive Dashboard**: Users can filter data by year, urban/rural areas, and accident date to dynamically explore road accident trends.
+- **Data Visualizations**: Bar charts, pie charts, and line graphs provide clear visual insights into casualty types, road conditions, and vehicle involvement.
+- **User-Friendly Interface**: Built entirely in Excel, making the analysis accessible for users familiar with spreadsheet tools.
+
+---
+
+## Conclusion
+
+This project provides a comprehensive view of road accidents in Great Britain, offering valuable insights into the contributing factors of road safety. By leveraging **Excel** for data analysis and visualization, it enables users to interact with the data dynamically and draw conclusions that can inform road safety strategies.
+
 
 ---
 
@@ -149,3 +205,24 @@ The **Road Accident Dashboard** offers a powerful tool for traffic analysts, pol
 
 5. **Data Granularity**:
    - While the dashboard provides a high-level overview, the lack of granular data (e.g., specific causes of accidents) limits deeper analysis and more specific recommendations for prevention.
+  
+   - ## Key Features
+
+- **Interactive Dashboard**: Users can filter data by year, urban/rural areas, and accident date to dynamically explore road accident trends.
+- **Data Visualizations**: Bar charts, pie charts, and line graphs provide clear visual insights into casualty types, road conditions, and vehicle involvement.
+- **User-Friendly Interface**: Built entirely in Excel, making the analysis accessible for users familiar with spreadsheet tools.
+
+---
+
+## Conclusion
+
+This project provides a comprehensive view of road accidents in Great Britain, offering valuable insights into the contributing factors of road safety. By leveraging **Excel** for data analysis and visual
+
+--
+# References
+
+The dataset used in this project was sourced from publicly available data on road casualties in Great Britain. For more information, you can visit the link below:
+
+- **[Reported Road Casualties in Great Britain](https://en.wikipedia.org/wiki/Reported_Road_Casualties_Great_Britain)**
+
+😀💻
